@@ -105,3 +105,6 @@ dist
 
 # Prettier vscode
 .prettierrc
+
+#.vscode
+.vscode/
